@@ -1,1 +1,3 @@
 exemplo.py
+__pycache__/
+*.pyc
