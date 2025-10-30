@@ -1,0 +1,11 @@
+{
+  "quality": 85,
+  "format": "JPEG",
+  "max_width": null,
+  "max_height": null,
+  "optimize": true,
+  "progressive": true,
+  "backup_original": false,
+  "output_suffix": "",
+  "delete_original_on_format_change": true
+}
